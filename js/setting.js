@@ -10,14 +10,33 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'yokohama_budget';
-OpenSpending.year = '2012';
+OpenSpending.identifier = 'hirakawa_city_budget';
+OpenSpending.year = '2014';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
 
+  /* hirakawa */
+/*
+  '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '2': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '3': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '4': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '5': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '6': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '7': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '8': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '9': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '10': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '11': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '12': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '13': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+*/
+
+
   /* yokohama cofog */
+/*
   '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
   '1-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
   '2': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
@@ -45,6 +64,8 @@ OpenSpending.Styles.Cofog = {
   '9-1': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
   '10': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
   '10-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+*/
+
 };
 
 

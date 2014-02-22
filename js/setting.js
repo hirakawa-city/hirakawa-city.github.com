@@ -18,21 +18,19 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* hirakawa */
-/*
-  '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '2': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '3': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '4': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '5': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '6': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '7': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '8': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '9': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '10': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '11': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '12': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '13': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-*/
+  '1': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
+  '2': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
+  '3': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
+  '4': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
+  '5': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
+  '6': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
+  '7': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
+  '8': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
+  '9': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
+  '10': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
+  '11': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
+  '12': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
+  '13': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
 
 
   /* yokohama cofog */

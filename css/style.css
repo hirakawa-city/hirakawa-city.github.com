@@ -1,4 +1,3 @@
-
 /* OKFN Brand font, not related to WDMMG. */
 
 /*
@@ -135,8 +134,8 @@ footer a, footer a:hover {
 
 #dailybread .db-area-title h3 {
   font-family: "OpenSansSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 11px;
-  line-height: 13px;
+  /* font-size: 11px; */
+  /* line-height: 13px; */
 }
 
 #browser .filters-current {

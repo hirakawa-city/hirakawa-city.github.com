@@ -20,7 +20,7 @@ OpenSpending.Styles.Cofog = {
   /* hirakawa */
   '1': { icon: 'icons/publicaffairs.svg', color: '#A5D148', bcolor: '#A5D148' },
   '2': { icon: 'icons/family2.svg', color: '#A5D148', bcolor: '#A5D148' },
-  '3': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
+  '3': { icon: 'icons/coal.svg', color: '#A5D148', bcolor: '#A5D148' },
   '4': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
   '5': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
   '6': { icon: 'icons/dollar.svg', color: '#A5D148', bcolor: '#A5D148' },
